@@ -17,7 +17,7 @@ col1, col2 = st.columns([1, 2], gap='small')
 with col1:
     st.image('SRK_Logo.png', width=800)
     st.title("Groundwater Level Analysis")
-    st.write("Author: ABennett@srk.co.uk")
+    st.write("Author:")
     st.write("Version: 01")
     st.write("Date: 12/01/2024") 
     st.write("")
